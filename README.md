@@ -124,9 +124,11 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
+![image](https://github.com/Sachin-vlr/serversideprocessing/assets/113497666/f1b3b609-89df-4009-86c6-1522ac007709)
 
 
 ### Home Page:
+![image](https://github.com/Sachin-vlr/serversideprocessing/assets/113497666/04300a65-7fad-44bf-80a4-ad706cd57a10)
 
 
 ## Result:
